@@ -100,7 +100,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
 
 _Nice work! :tada: You added a workflow file!_
 
-Here's what it means:
+Here's what it means: =)
 
 - `name: Post welcome comment` gives your workflow a name. This name appears on any pull request or in the Actions tab of your repository.
 - `on: pull_request: types: [opened]` indicates that your workflow will execute anytime a pull request opens in your repository.
